@@ -1,0 +1,3 @@
+[submodule "PRINTF/libft"]
+	path = PRINTF/libft
+	url = https://github.com/code-kiwi/42_LIBFT.git
